@@ -28,7 +28,19 @@
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-## 🎯 주요 구현 사항
+## 🖥️ 팀원 소개 및 구현 화면
+
+### 💪 이정도면 껌이조! 우리 팀을 소개 합니다.
+
+| **이름** | **직책** |                **담당 페이지**                |               **프사**                |
+| :------: | :------: | :-------------------------------------------: | :-----------------------------------: |
+|  박나영  |   팀장   |              임직원 페이지 담당               | ![박나영](public/profiles/박나영.jpg) |
+|  김미정  |   팀원   | 출퇴근 타이머 <br /> 출퇴근 기록 페이지 담당  | ![김미정](public/profiles/김미정.jpg) |
+|  김성겸  |   팀원   |    프로젝트 페이지 <br />메인 페이지 담당     | ![김성겸](public/profiles/김성겸.jpg) |
+|  노욱진  |   팀원   |               위키 페이지 담당                | ![노욱진](public/profiles/노욱진.jpg) |
+|  진종수  |   팀원   | 로그인/회원가입 <br />회원 정보수정 관련 담당 | ![진종수](public/profiles/진종수.jpg) |
+
+### 🎯 주요 구현 사항
 
 <!-- 각자 구현 사항 적어주시면 좋을것 같아요! -->
 
@@ -78,35 +90,31 @@
    - 권한별로 기능에 제한을 둠
    <!-- 여기까지 나영님 구현 사항 -->
 
-## 🖥️ 팀원 소개 및 구현 화면
-
-### 💪 이정도면 껌이조! 우리 팀을 소개 합니다.
-
-| **이름** | **직책** |                **담당 페이지**                |               **프사**                |
-| :------: | :------: | :-------------------------------------------: | :-----------------------------------: |
-|  박나영  |   팀장   |              임직원 페이지 담당               | ![박나영](public/profiles/박나영.jpg) |
-|  김미정  |   팀원   | 출퇴근 타이머 <br /> 출퇴근 기록 페이지 담당  | ![김미정](public/profiles/김미정.jpg) |
-|  김성겸  |   팀원   |    프로젝트 페이지 <br />메인 페이지 담당     | ![김성겸](public/profiles/김성겸.jpg) |
-|  노욱진  |   팀원   |               위키 페이지 담당                | ![노욱진](public/profiles/노욱진.jpg) |
-|  진종수  |   팀원   | 로그인/회원가입 <br />회원 정보수정 관련 담당 | ![진종수](public/profiles/진종수.jpg) |
 
 ### 페이지 구현 이미지
 
-|                   **메인 페이지**                   |                                                     **로그인/회원가입 페이지**                                                      |
-| :-------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| ![메인 페이지](public/images/project-main-page.png) | <img src="public/images/signin.png" width="400px" height="300px"> <img src="public/images/signup.png" width="400px" height="300px"> |
+#### 메인 페이지
+<img src="public/images/project-main-page.png" width="auto">
 
-|                 **정보 수정 페이지**                  |                 **직원정보 페이지**                 |
-| :---------------------------------------------------: | :-------------------------------------------------: |
-| <img src="public/images/userInfo.png" height="400px"> | ![직원정보 페이지](public/images/employee-list.png) |
+#### 로그인/회원가입 페이지
+<img src="public/images/signin.png" width="auto"> 
+<img src="public/images/signup.png" width="auto">
 
-|                  **위키 페이지**                  |                 **프로젝트 페이지**                  |
-| :-----------------------------------------------: | :--------------------------------------------------: |
-| ![위키 페이지](public/images/wiki-IntroImage.png) | ![프로젝트 페이지](public/images/project-detail.png) |
+#### 정보 수정 페이지
+ <img src="public/images/userInfo.png" width="auto"> 
 
-|                 **출퇴근 타이머**                 |                  **출퇴근 기록 페이지**                   |
-| :-----------------------------------------------: | :-------------------------------------------------------: |
-| ![출퇴근 타이머](public/images/timer-default.png) | ![출퇴근 기록 페이지](public/images/worktime-default.png) |
+#### 직원 정보 페이지
+ <img src="public/images/employee-list.png" width="auto"> 
+
+#### 위키 페이지
+ <img src="public/images/wiki-IntroImage.png" width="auto"> 
+
+#### 프로젝트 페이지
+ <img src="public/images/project-detail.png" width="auto"> 
+
+#### 출퇴근 타이머 및 기록 페이지
+ <img src="public/images/timer-default.png" width="auto"> 
+ <img src="public/images/worktime-default.png" width="auto"> 
 
 <!-- 각자 구현 사항 적어주시면 좋을것 같아요! -->
 
